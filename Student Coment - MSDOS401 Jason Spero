@@ -1,0 +1,1 @@
+This is a cool project; it’s a real time analysis of earthquakes around the world. The data set is courtesy of the USGS and what makes this cool is that using R there is plots of geospatial data of real earthquakes, something I could not figure out. Code, Graphs all done in R, data read in from a online source.
